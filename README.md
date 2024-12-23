@@ -9,7 +9,7 @@
 </ul>
 <br></br>
 
-<h2>Key features include:</h2>
+<h2>How to Run:</h2>
 <ol>
   <li>Install Python's latest version and Pygame.</li>
   <li>Clone this repository.</li>
